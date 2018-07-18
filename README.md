@@ -13,11 +13,11 @@ Zircon is created using [my own pico8 library](https://github.com/Caaz/pico8-lib
 
 ## Developing
 
-The project begins at [base.p8](../blob/master/base.p8), where it imports other files. As of right now, that's all I can say. While working on it you're better off using the live compile option which will build it on pico8's reload of the fifo cart.
+The project begins at [base.p8](../master/base.p8), where it imports other files. As of right now, that's all I can say. While working on it you're better off using the live compile option which will build it on pico8's reload of the fifo cart.
 
 ## License
 
-This uses the [MIT License](../blob/master/LICENSE.txt).
+This uses the [MIT License](../master/LICENSE.txt).
 
 ## Credits
 
